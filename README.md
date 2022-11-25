@@ -1,2 +1,2 @@
 # Chatzin
- Projeto de python aula simples.
+ Projeto de aula que é um chat anônimo.
